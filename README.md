@@ -17,6 +17,7 @@ sudo apt-get install network-manager
 Usage: nmwrapper [ACTION] [OPTIONS]
 
 Actions:
+
         -create (Requires all options)
         -delete (Requires connection name)
         -up     (Requires connection name)
